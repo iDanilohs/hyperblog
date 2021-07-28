@@ -1,5 +1,7 @@
 Hola soy Danilo un apasionado de la programación que busca dejar el mundo mejor
 a como lo encontré y alimentar al mundo saludablemente.
 
-Estoy estudiando back-end como principal y fron-end como secundario.
+Estoy estudiando back-end como principal y fron-end como complementario.
 Además de ello quiero seguir con la academia de data science.
+
+Hablaremos de su vida y obra maestra.
