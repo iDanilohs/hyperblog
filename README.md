@@ -13,3 +13,5 @@ un blog increíble para el curso de git y github de platzi.
 - Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este realmente es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejot ve a platizi.com y **nunca pares de aprender**.
+
+Para ver el proyecto de aprendizaje click aca: https://idanilohs.github.io/hyperblog/blogpost.html
